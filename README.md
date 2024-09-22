@@ -16,7 +16,7 @@ How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/Diksha026-lab/mp3-music-player.git
+git clone https://github.com/Diksha026-lab/Music_player.git
 
 
 2. Navigate to the project folder:
