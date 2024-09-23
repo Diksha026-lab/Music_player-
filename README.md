@@ -86,4 +86,4 @@ Author 👩‍💻
 
 💬 I’m looking to connect with like-minded individuals for collaborative data projects, sharing insights, and contributing to open-source data initiatives.
 
-📫 How to reach me: thisisdiksha96530@gmail.com or connect with me on LinkedIn.
+📫 How to reach me: thisisdiksha96530@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/diksha-singh-34060125a
